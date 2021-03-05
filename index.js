@@ -142,4 +142,3 @@ const fi = (function() {
 })()
 
 
-console.log(fi.functions(fi));
